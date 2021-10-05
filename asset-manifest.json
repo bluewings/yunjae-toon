@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/yunjae-toon/static/css/main.02a386b5.chunk.css",
-    "main.js": "/yunjae-toon/static/js/main.d901b012.chunk.js",
-    "main.js.map": "/yunjae-toon/static/js/main.d901b012.chunk.js.map",
+    "main.js": "/yunjae-toon/static/js/main.d88d50ce.chunk.js",
+    "main.js.map": "/yunjae-toon/static/js/main.d88d50ce.chunk.js.map",
     "runtime-main.js": "/yunjae-toon/static/js/runtime-main.caf39603.js",
     "runtime-main.js.map": "/yunjae-toon/static/js/runtime-main.caf39603.js.map",
     "static/js/2.758151cb.chunk.js": "/yunjae-toon/static/js/2.758151cb.chunk.js",
@@ -24,6 +24,6 @@
     "static/js/runtime-main.caf39603.js",
     "static/js/2.758151cb.chunk.js",
     "static/css/main.02a386b5.chunk.css",
-    "static/js/main.d901b012.chunk.js"
+    "static/js/main.d88d50ce.chunk.js"
   ]
 }
